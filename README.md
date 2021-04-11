@@ -18,4 +18,4 @@
 : 2018년도 상명대학교 게임학과 게임잼
   2019년도 시애틀 IT 산업 시찰단
   
-[![Swanq GitHub stats](https://github-readme-stats.vercel.app/api?username=snr1229)](https://github.com/snr1229/github-readme-stats)
+[![Swanq GitHub stats](https://github-readme-stats.vercel.app/api?username=snr1229)](https://github.com/anuraghazra/github-readme-stats)
