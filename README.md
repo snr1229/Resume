@@ -14,8 +14,9 @@
 
 
 
-참여한 대외활동
+참여 활동
 : 2018년도 상명대학교 게임학과 게임잼
   2019년도 시애틀 IT 산업 시찰단
+  2021년도 상명대학교 Elastic과 함께하는 데이터 콘서트 본선 진출
   
 [![Swanq GitHub stats](https://github-readme-stats.vercel.app/api?username=snr1229)](https://github.com/anuraghazra/github-readme-stats)
